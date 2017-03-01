@@ -1,7 +1,10 @@
 ## 上海饰的网络科技前端面试题
 
 
-#### 实现要求如下：   
+#### 实现要求如下：
+
+![需求](https://github.com/fuliaoyi/showmecode/blob/master/feature.png?raw=true)
+
   - 通过 vue 去实现   
   - 完整实现需求中的功能逻辑，不需要像素级还原界面   
   - 需求中所提到的 feature 均需实现，所需数据均在 [RSS feed](http://36kr.com/feed) 中   
