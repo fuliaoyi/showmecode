@@ -38,13 +38,10 @@
 
 ![需求](https://github.com/fuliaoyi/showmecode/blob/master/feature.png?raw=true)
 
-  - 通过 vue 去实现   
+  - 尽量通过 vue 去实现，如对 vue 不熟悉可选用其他SPA框架如Angular，React等   
   - 完整实现需求中的功能逻辑，不需要像素级还原界面   
   - 需求中所提到的 feature 均需实现，所需数据均在 [RSS feed](http://36kr.com/feed) 中   
-  - 实现后的页面传到 github 上发给我你的 github 地址即可(发往招聘网站邮箱)
-
-
-
+  - 实现后的页面和JS题代码传到 github 上发给我你的 github 地址即可(发往招聘网站邮箱或发给联系人)。在项目的README文件中注明答案相对应文件。
 ---
 
 
