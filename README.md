@@ -10,7 +10,7 @@
     
    期望打印出hellohellohello
 
-**3.** 如何用person打印出Colin Ihrig
+**3.** 下面代码如何改可以让person()打印出Colin Ihrig
 
 ```javascript
 
