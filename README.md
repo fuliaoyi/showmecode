@@ -23,7 +23,7 @@
 	}
 	 	 
 	var person = obj.getFullname
-	console.log(obj.prop.getFullname()) // Colin Ihrig
+	console.log(obj.getFullname()) // Colin Ihrig
 	console.log(person()) // John Doe
 	
 ```
