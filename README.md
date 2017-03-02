@@ -4,13 +4,13 @@
 #### JS题
 
 
-1. 有一个长度未知的数组a，如果它的长度为0就把数字1添加到数组里面，否则按照先进先出的队列规则让第一个元素出队
+**1.** 有一个长度未知的数组a，如果它的长度为0就把数字1添加到数组里面，否则按照先进先出的队列规则让第一个元素出队
 
-2. console.log('hello'.repeatify(3))
+**2.** console.log('hello'.repeatify(3))
+    
+   期望打印出hellohellohello
 
-	期望打印出hellohellohello
-
-3. 如何用person打印出Colin Ihrig
+**3.** 如何用person打印出Colin Ihrig
 
 ```javascript
 
@@ -28,7 +28,7 @@
 	
 ```
 
-4. 不使用loop循环，创建一个长度为100的数组，并且每个元素的值等于它的下标
+**4.** 不使用loop循环，创建一个长度为100的数组，并且每个元素的值等于它的下标
 
 
 
